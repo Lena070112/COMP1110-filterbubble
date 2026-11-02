@@ -1,0 +1,16 @@
+claim_id,reason_id,side,reason_en,reason_zh,source_id,locator
+strict_only,D1,strict,"Strictness as 'training': clear standards and expectations of hard work, which in Chinese child-rearing go together with close involvement and support for schooling.",严格要求是'管教'：立标准、要求努力，在中国式教养里和亲近、投入、支持孩子学习是连在一起的。,S1,abstract; training items
+strict_only,D2,balanced,Firm limits combined with warmth ('supportive' profile) went with the best school and socio-emotional outcomes in one longitudinal Chinese American sample.,严格加上温暖（支持型）的家庭，孩子成绩和心理适应最好（一项华裔美国家庭追踪研究）。,S3,profiles: supportive vs tiger
+strict_only,D3,alt,The 'tiger' profile had lower GPA (about 3.0 vs 3.4) and poorer socio-emotional outcomes than the supportive profile in the same sample.,同一研究中，'虎妈'型的孩子成绩更低（约3.0对3.4），情绪与社交适应也更差。,S3,GPA and wellbeing comparison
+strict_only,D4,alt,"Physical punishment was linked to more defiance, aggression and mental-health problems, and not to better compliance (meta-analysis, 160,000+ children).",体罚与更多对抗、攻击行为、心理问题相关，也没有带来更好的服从（元分析，16万+儿童）。,S2,main findings
+strict_only,D5,alt,"Recommended alternative: set expectations in advance, reward positive behaviour, follow through consistently, redirect; avoid shaming and harsh verbal discipline.",更有效的做法：事先讲好规矩、奖励好行为、前后一致、转移注意；避免羞辱和言语暴力。,S4,recommendations
+must_jiwa,J1,strict,Exam-driven competition for school and university places pushes families to buy tutoring to keep up.,升学考试竞争激烈，家长为了不落后而送孩子补习。,S5,why families use tutoring
+must_jiwa,J2,strict,"Tutoring helps slow learners catch up, lets fast learners go further, and covers topics schools do not teach.",补习能帮跟不上的孩子补课，也让学得快的孩子学更多，还能补学校没教的内容。,S5,why families use tutoring
+must_jiwa,J3,alt,"Pressure, long hours on top of school and fatigue can reduce daytime learning.",压力大、学时长、疲劳，反而可能影响白天在学校的学习。,S5,effects on students
+must_jiwa,J4,alt,"Wealthier households buy more and better tutoring and it is a heavy household cost, so it widens inequality.",富裕家庭花得更多、买到的补习也更好，家庭负担重，会扩大差距。,S5,equity and costs
+must_jiwa,J5,alt,"Policy view (2021 'Double Reduction'): student burden is too heavy, the tutoring sector grew into 'another education system', and commercial marketing runs against education as a public good.",政策立场（2021'双减'）：中小学生负担过重，培训机构规模形成'另一个教育体系'，资本化与过度营销违背教育公益属性。,S6,rationale as reported by 12371.cn
+bride_price_required,B1,balanced,"Courts recognise bride price given according to custom and consider local custom in disputes, so it is not illegal in itself.",法院承认按习俗给付的彩礼，并结合当地习俗处理纠纷，彩礼本身并不违法。,S7,"Arts. 1, 3"
+bride_price_required,B2,alt,Using marriage as a cover to extract property is prohibited; the payer can ask for it back.,禁止借婚姻索取财物，以彩礼为名索财的，对方可以要求返还。,S7,Art. 2
+bride_price_required,B3,balanced,"After registration and living together, courts generally do not order return on divorce, unless cohabitation was short and the amount excessive.",已登记并共同生活的，离婚时一般不返还；共同生活时间短且数额过高的除外。,S7,Art. 5
+bride_price_required,B4,alt,"High bride prices are criticised as a financial burden ('娶不起'), a poverty risk for rural families, waste, and a source of social-debt strain.",高额彩礼被批评为经济负担（娶不起）、返贫风险、浪费，以及人情债。,S8,reported criticisms
+bride_price_required,B5,alt,The 2023 No. 1 central document calls for special campaigns against high bride prices; some localities set caps or village rules.,2023年中央一号文件要求专项治理高价彩礼；一些地方设了上限或村规民约。,S8,policy section

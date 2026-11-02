@@ -19,7 +19,9 @@ src/fbx/sim/run.py      matched-seed comparison; goal attainment, retention, eff
 scripts/                run_worked_example.py, run_annotation_agreement.py, run_simulation.py, make_demo_data.py
 tests/                  unit tests (python -m unittest discover -s tests)
 data/pilot/             annotation_template.csv + synthetic demo files
-docs/                   notes (add annotation protocol, issue/claim definitions here)
+docs/                   definitions.md (RQs, definitions), annotation_protocol.md
+data/reference/         claims.csv, reference_reasons.csv, sources.csv (sourced reference-reason corpus)
+src/fbx/corpus.py       loader + validator for the reference corpus
 ```
 
 ## Run (Python 3.9+, standard library only)
